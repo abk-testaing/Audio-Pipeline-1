@@ -1,0 +1,12 @@
+numpy
+torch
+torchaudio
+tensorflow
+librosa
+pydub
+transformers
+silero-vad
+Flask
+flask-cors
+werkzeug
+flask-limiter
